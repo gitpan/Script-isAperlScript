@@ -3,6 +3,9 @@ Script-isAperlScript
 Does some simple testing to check if a string or file is a perl
 script.
 
+The reason to use this instead of file is will recognize some things
+that can't securely be regarded as a Perl file.
+
 INSTALLATION
 
 To install this module, run the following commands:
